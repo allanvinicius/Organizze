@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "610317210236",
+    "firebase_url": "https://app-financas-47a03.firebaseio.com",
+    "project_id": "app-financas-47a03",
+    "storage_bucket": "app-financas-47a03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610317210236:android:abe646002b376ee340aff9",
+        "android_client_info": {
+          "package_name": "all.financas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610317210236-6hp5s2hql3n7bhb3luocsj985k4dh4nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGHuZlMQ2T00hHh0DkfnDvaWgRflYyX8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610317210236-6hp5s2hql3n7bhb3luocsj985k4dh4nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
