@@ -1,4 +1,4 @@
-# financas
+# Organizze
 
 A new Flutter project.
 
